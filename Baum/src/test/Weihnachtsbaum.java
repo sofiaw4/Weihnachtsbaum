@@ -4,7 +4,7 @@ package test;
 import java.util.Random;
 
 public class Weihnachtsbaum {
-	static int breite = 42;
+	static int breite = 43;
 	static int leerzeichen = breite / 2;
 	static int blaetter = 1;
 	static Random wuerfel = new Random();
